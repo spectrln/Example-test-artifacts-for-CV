@@ -1,8 +1,8 @@
 <br><br>
-# Example
+# BugId01
 
 #### Screen blinks when HDR is off
-Screen blinks when player got any damage frome enemies
+Screen blinks when player got any damage frome enemies.
 
 #### Steps to reproduce 
 1. Launch the RBDoom3BFG.exe
